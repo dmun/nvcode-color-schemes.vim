@@ -24,7 +24,7 @@ palette:
   black: "#1E1E1E"
   line_grey: "#5C6370"
   gutter_fg_grey: "#5A5A5A"
-  cursor_grey: "#2E2E2E"
+  cursor_grey: "#252526"
   visual_grey: "#264F78"
   menu_grey: "#2E2E2E"
   special_grey: "#3B4048"
