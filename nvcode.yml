@@ -90,7 +90,7 @@ highlights:
   DiffDelete: "black red"
   DiffText: "black yellow"
   ErrorMsg: "error_red"
-  VertSplit: "bg"
+  VertSplit: "tabfill"
   Folded: "line_grey"
   FoldColumn: ""
   IncSearch: "- line_grey"
@@ -332,6 +332,7 @@ highlights:
   NvimTreeRootFolder: "fg - b"
   NvimTreeExecFile: "executable"
   NvimTreeSpecialFile: "info_yellow"
+  NvimTreeVertSplit: "bg bg"
 
   BufferCurrent: "fg bg"
   BufferCurrentIndex: "blue bg"
@@ -350,6 +351,10 @@ highlights:
   BufferInactiveMod: "gutter_fg_grey bg_inactive"
   BufferInactiveSign: "gutter_fg_grey bg_inactive"
   BufferInactiveTarget: "red bg_inactive b"
+
+  BufferLineFill: "- tabfill"
+  BufferLineTab: "fg tabfill"
+  BufferLineTabSelected: "fg bg"
 
   # BufferTabpages: "blue bg_inactive b"
   # BufferTabpageFill: "gutter_fg_grey bg_inactive"
