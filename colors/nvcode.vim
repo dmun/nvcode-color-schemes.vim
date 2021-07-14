@@ -246,7 +246,7 @@ hi NvimTreeFolderIcon guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE 
 hi NvimTreeRootFolder guifg=#d4d4d4 ctermfg=188 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NvimTreeExecFile guifg=#23d18b ctermfg=42 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeSpecialFile guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NvimTreeVertSplit guifg=#1e1e1e ctermfg=234 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
+hi NvimTreeVertSplit guifg=#252526 ctermfg=235 guibg=#252526 ctermbg=235 gui=NONE cterm=NONE
 hi BufferCurrent guifg=#d4d4d4 ctermfg=188 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
 hi BufferCurrentIndex guifg=#569cd6 ctermfg=74 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
 hi BufferCurrentMod guifg=#d4d4d4 ctermfg=188 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
