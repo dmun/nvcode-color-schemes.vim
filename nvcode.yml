@@ -42,6 +42,7 @@ palette:
   cursor_fg: "#515052"
   cursor_bg: "#AEAFAD"
   indentlinehighlight: "#707070"
+  statusline: "#2D2D2D"
 
 
 highlights:
@@ -111,7 +112,7 @@ highlights:
   SpellLocal: "dark_yellow"
   SpellRare: "dark_yellow"
   StatusLine: "white vertsplit"
-  StatusLineNC: "line_grey"
+  StatusLineNC: "statusline"
   StatusLineTerm: "white vertsplit"
   StatusLineTermNC: "vertsplit"
   TabLine: "line_grey"
@@ -336,6 +337,7 @@ highlights:
   NvimTreeExecFile: "executable"
   NvimTreeSpecialFile: "info_yellow"
   NvimTreeVertSplit: "tabfill tabfill"
+  NvimTreeStatusLineNC: "- statusline"
 
   BufferCurrent: "fg bg"
   BufferCurrentIndex: "blue bg"

@@ -71,7 +71,7 @@ hi SpellCap guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellLocal guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#d4d4d4 ctermfg=188 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
-hi StatusLineNC guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi StatusLineNC guifg=#2d2d2d ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLineTerm guifg=#d4d4d4 ctermfg=188 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
 hi StatusLineTermNC guifg=#2e2e2e ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -247,6 +247,7 @@ hi NvimTreeRootFolder guifg=#d4d4d4 ctermfg=188 guibg=NONE ctermbg=NONE gui=bold
 hi NvimTreeExecFile guifg=#23d18b ctermfg=42 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeSpecialFile guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeVertSplit guifg=#252526 ctermfg=235 guibg=#252526 ctermbg=235 gui=NONE cterm=NONE
+hi NvimTreeStatusLineNC guifg=NONE ctermfg=NONE guibg=#2d2d2d ctermbg=236 gui=NONE cterm=NONE
 hi BufferCurrent guifg=#d4d4d4 ctermfg=188 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
 hi BufferCurrentIndex guifg=#569cd6 ctermfg=74 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
 hi BufferCurrentMod guifg=#d4d4d4 ctermfg=188 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
