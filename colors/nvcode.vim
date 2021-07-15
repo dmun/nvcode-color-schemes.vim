@@ -71,7 +71,7 @@ hi SpellCap guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellLocal guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#d4d4d4 ctermfg=188 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
-hi StatusLineNC guifg=#2d2d2d ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi StatusLineNC guifg=NONE ctermfg=NONE guibg=#2d2d2d ctermbg=236 gui=NONE cterm=NONE
 hi StatusLineTerm guifg=#d4d4d4 ctermfg=188 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
 hi StatusLineTermNC guifg=#2e2e2e ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -232,7 +232,7 @@ hi MatchParen guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cter
 hi MatchWordCur guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi MatchParenCur guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi NvimTreeNormal guifg=NONE ctermfg=NONE guibg=#252526 ctermbg=235 gui=NONE cterm=NONE
-hi NvimTreeCursorLine guifg=NONE ctermfg=NONE guibg=#37373d ctermbg=237 gui=NONE cterm=NONE
+hi NvimTreeCursorLine guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeImageFile guifg=#c586c0 ctermfg=175 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeGitDirty guifg=#81b88b ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeGitDeleted guifg=#81b88b ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

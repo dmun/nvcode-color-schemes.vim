@@ -112,7 +112,7 @@ highlights:
   SpellLocal: "dark_yellow"
   SpellRare: "dark_yellow"
   StatusLine: "white vertsplit"
-  StatusLineNC: "statusline"
+  StatusLineNC: "- statusline"
   StatusLineTerm: "white vertsplit"
   StatusLineTermNC: "vertsplit"
   TabLine: "line_grey"
@@ -322,7 +322,7 @@ highlights:
   MatchParenCur: "- - u"
 
   NvimTreeNormal: "- tabfill"
-  NvimTreeCursorLine: "- cursor_grey_tree"
+  NvimTreeCursorLine: "- -"
   NvimTreeImageFile: "purple"
   NvimTreeGitDirty: "git_green"
   NvimTreeGitDeleted: "git_green"
