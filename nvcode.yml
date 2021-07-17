@@ -93,7 +93,7 @@ highlights:
   DiffDelete: "black red"
   DiffText: "black yellow"
   ErrorMsg: "error_red"
-  VertSplit: "tabfill"
+  VertSplit: "statusline"
   Folded: "line_grey"
   FoldColumn: ""
   IncSearch: "- line_grey"
@@ -275,10 +275,11 @@ highlights:
   StartifyFooter: "green"
   # -- END Startify --
   # -- START WhichKey --
-  WhichKey: "purple"
-  WhichKeySeperator: "green"
+  WhichKey: "purple -"
+  WhichKeySeperator: "line_grey"
   WhichKeyGroup: "vivid_blue"
   WhichKeyDesc: "blue"
+  WhichKeyFloat: "- bg"
   # -- END WhichKey --
   #
   # old stuff
