@@ -298,6 +298,10 @@ highlights:
   GitSignsChange: "#0C7D9D"
   GitSignsDelete: "#94151B"
 
+  GitGutterAdd: "green"
+  GitGutterChange: "blue"
+  GitGutterDelete: "red"
+
   # LspDiagnosticsUnderlineError: "error_red"
   # LspDiagnosticsUnderlineWarning: "orange"
   # LspDiagnosticsUnderlineInformation: "yellow"
